@@ -1,0 +1,14 @@
+name: Sam Alexander
+description: Technical musings
+url: http://samalexander.io
+markdown: redcarpet
+#highlighter: pygments # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+github_username:  samalexand
+twitter_username: samalexand
+gems: [jekyll-paginate]
+paginate: 5
+future: true
+permalink: pretty

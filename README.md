@@ -2,9 +2,9 @@
 
 ## Short term To-Do:
 - [x] Point personal domain to GitHub Pages
-- [] Configure Jekyll Blog
-- [] Setup gulp-gh-pages
-- [] Basic styling
+- [ ] Configure Jekyll Blog
+- [ ] Setup gulp-gh-pages
+- [ ] Basic styling
 
 
 
